@@ -1,3 +1,5 @@
+👉 Probala online: https://nicopelos.github.io/resumen-dashboard/
+
 # Resumen de tarjetas → Dashboard
 
 Arrastrás el PDF del resumen de tu tarjeta de crédito y te muestra en qué se te fue la plata: saldo, pago mínimo, gastos por categoría, los comercios donde más gastaste y las cuotas que vienen los próximos meses.
